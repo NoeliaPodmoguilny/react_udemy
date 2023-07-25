@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin-left: 4%;
+    padding: 0;
+
+}
+html, body {
+    background-color: #232323;
+    color: #e6e9e8;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+button{
+    background-color: #232323;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid #e6e9e8 4px;
+    color: #e6e9e8;
+    font-size: 2rem;
+}
+button:hover{
+    transform: scale(0.9);
+}
